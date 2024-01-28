@@ -29,4 +29,4 @@ A simple implementation of the classic Pong game using the Turtle library in Pyt
    python main.py
 
 ## Screenshot
-[Pong Game image](pong.png)
+![Pong Game image](pong.png)
